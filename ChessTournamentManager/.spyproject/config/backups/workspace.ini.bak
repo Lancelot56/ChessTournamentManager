@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['main.py', 'db\\seeders\\tournamentseeder.py', 'views\\playerview.py', 'db\\seeders\\playerseeder.py', 'db\\seeders\\databaseseeder.py', 'models\\playermodel.py', 'models\\tournamentmodel.py', 'router\\console.py', 'views\\menuview.py', 'views\\tournamentview.py', 'controllers\\roundcontroller.py', 'controllers\\menucontroller.py', '..\\..\\..\\scripts\\tiny\\playercontroller.py', 'controllers\\tournamentcontroller.py', 'models\\roundmodel.py', 'db.json', 'controllers\\matchcontroller.py', 'models\\matchmodel.py', '..\\..\\..\\scripts\\Bouts de code\\swiss.py', '..\\..\\..\\scripts\\Boucle while.py', '..\\..\\..\\scripts\\Bouts de code\\untitled4.py', 'views\\reportview.py', '..\\..\\..\\scripts\\tiny\\meslegumes.py', 'controllers\\playercontroller.py']
+
